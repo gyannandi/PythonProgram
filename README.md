@@ -1,4 +1,4 @@
 # PythonProgram
 This is my First Git Repository
 <br>
-Author: Gyan Nandi
+Author: Gyan Ranjan Nandi
